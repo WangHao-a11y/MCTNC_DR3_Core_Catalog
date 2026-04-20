@@ -1,0 +1,4 @@
+method,shared_quality_cut,shared_catalog_center,shared_astrometric_normalization,shared_candidate_protocol,shared_center_refinement,label_based_model_selection,prediction_cap,kinematic_crop,notes
+gmm_bic,1,1,1,0,0,0,1,1,GMM+BIC baseline with shared normalization; downstream kinematic crop and posterior cap retained.
+heuristic_cut,1,1,1,1,0,0,0,0,Rule-based weak baseline evaluated under the shared candidate subset used in the benchmark package.
+hdbscan,1,1,1,1,1,0,1,0,"Primary strong baseline in the paper: HDBSCAN under the shared benchmark protocol, with no truth-guided selection."

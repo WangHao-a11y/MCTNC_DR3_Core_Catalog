@@ -1,0 +1,4 @@
+center_effect,n_cluster,fraction,fraction_label
+improved,2,0.005571030640668524,0.6%
+stable,356,0.9916434540389972,99.2%
+degraded,1,0.002785515320334262,0.3%

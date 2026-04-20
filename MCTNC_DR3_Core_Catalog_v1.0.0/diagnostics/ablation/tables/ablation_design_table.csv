@@ -1,0 +1,9 @@
+variant,title,quality_cut,candidate_protocol,anchor_prior,adaptive_k,support_gate,objective_regularization,center_refinement,description
+full_core,Full core model,1,1,1,1,1,1,1,Full production-aligned core configuration.
+no_quality_cut,Without quality cut,0,1,1,1,1,1,1,Removes RUWE-based upstream quality control.
+no_candidate_protocol,Without candidate protocol,1,0,1,1,1,1,1,Runs the core objective on the full cone rather than the capped candidate subset.
+no_anchor_prior,Without anchor prior,1,1,0,1,1,1,1,"Builds seeds from score ranking alone, without the anchor track."
+fixed_single_k,Without adaptive k-set,1,1,1,0,1,1,1,Replaces the adaptive k-set with a single fixed neighborhood scale.
+no_support_gate,Without support gate,1,1,1,1,0,1,1,Removes the explicit support-threshold gate and relies on ranked support slices.
+no_center_refinement,Without center refinement,1,1,1,1,1,1,0,Locks the solution to the catalog center only.
+no_objective_regularization,Without objective regularization,1,1,1,1,1,0,1,"Chooses the solution by mean support alone, without size/cohesion regularization."

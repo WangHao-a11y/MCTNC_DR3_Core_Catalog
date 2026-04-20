@@ -1,0 +1,5 @@
+method,best_n,solo_best_n,mean_dense_rank,median_dense_rank,rank1_n,rank2_n,rank3_n,rank4_n
+hdbscan,260,19,1.3649025069637883,1.0,260,70,26,3
+mctnc,221,73,1.4289693593314763,1.0,221,123,14,1
+heuristic_cut,235,2,1.5125348189415042,1.0,235,74,40,10
+gmm_bic,206,6,1.7298050139275767,1.0,206,80,37,36

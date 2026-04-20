@@ -1,0 +1,4 @@
+baseline,mctnc_better_n,tie_n,baseline_better_n,median_delta_f1_mctnc_minus_baseline,p90_delta_f1_mctnc_minus_baseline
+gmm_bic,143,130,86,0.0,1.0
+heuristic_cut,105,160,94,0.0,0.2523076923076922
+hdbscan,86,169,104,0.0,0.04809523809523803

@@ -1,0 +1,2 @@
+mctnc_source,mctnc_source_name,source_name_policy,mctnc_mode_column,core_mode_required,raw_rows,kept_rows,raw_cluster_rows,kept_cluster_rows,core_rows_detected,halo_rows_detected,filter_policy,duplicate_policy,assumed_core_benchmark
+D:\HuaweiMoveData\Users\王浩\Desktop\课题组\DUCT-Clust\ApJS_TableA_Full_Benchmark_CORE_BENCHMARK.csv,ApJS_TableA_Full_Benchmark_CORE_BENCHMARK.csv,non_halo_filename,mctnc_mode,1,359,359,359,359,359,0,explicit_core_mode_filter,none,1

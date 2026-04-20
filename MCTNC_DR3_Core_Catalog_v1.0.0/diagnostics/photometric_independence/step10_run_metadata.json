@@ -1,0 +1,26 @@
+{
+  "base_dir": "D:\\HuaweiMoveData\\Users\\王浩\\Desktop\\课题组\\DUCT-Clust",
+  "ocfinder_table1": "D:\\HuaweiMoveData\\Users\\王浩\\Desktop\\课题组\\DUCT-Clust\\ocfinder_table1.csv",
+  "ocfinder_table2": "D:\\HuaweiMoveData\\Users\\王浩\\Desktop\\课题组\\DUCT-Clust\\ocfinder_table2.csv",
+  "release_table2": "D:\\HuaweiMoveData\\Users\\王浩\\Desktop\\课题组\\DUCT-Clust\\ApJS_Table2_MCTNC_Master_Catalog.csv",
+  "output_dir": "D:\\HuaweiMoveData\\Users\\王浩\\Desktop\\课题组\\DUCT-Clust\\step10_outputs_final",
+  "offline": false,
+  "refresh_cache": false,
+  "batch_size": 1000,
+  "sleep_sec": 1.0,
+  "n_clusters_overlap": 359,
+  "n_union_source_ids": 17113,
+  "representative_clusters": [
+    "UBC1001",
+    "UBC1049",
+    "UBC1103",
+    "UBC1237"
+  ],
+  "representative_roles": {
+    "UBC1001": "clean exact case",
+    "UBC1049": "strong conservative-core exclusion case",
+    "UBC1103": "strong FP-dominated photometric outlier case",
+    "UBC1237": "appendix-level rerun/exception case"
+  },
+  "timestamp_unix": 1775922287.830144
+}

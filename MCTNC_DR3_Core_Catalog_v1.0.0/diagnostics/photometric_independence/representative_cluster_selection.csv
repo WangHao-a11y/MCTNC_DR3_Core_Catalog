@@ -1,0 +1,5 @@
+﻿Cluster,Role
+UBC1001,clean exact case
+UBC1049,strong conservative-core exclusion case
+UBC1103,strong FP-dominated photometric outlier case
+UBC1237,appendix-level rerun/exception case

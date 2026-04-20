@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this catalog or diagnostic package, please cite the associated manuscript and the archived release."
+title: "A Gaia DR3 Core-Membership Catalog for 359 Open Clusters from M-CTNC"
+authors:
+  - family-names: Wang
+    given-names: Hao
+    orcid: "https://orcid.org/0009-0001-6738-4577"
+  - family-names: Wen
+    given-names: Luosheng
+    orcid: "https://orcid.org/0000-0003-4308-9802"
+    email: "wls@cqu.edu.cn"
+version: "1.0.0"
+repository-code: "https://github.com/WangHao-a11y/MCTNC_DR3_Core_Catalog"
+url: "https://github.com/WangHao-a11y/MCTNC_DR3_Core_Catalog"
+license: "CC-BY-4.0"
+keywords:
+  - Gaia DR3
+  - open clusters
+  - astrometry
+  - membership catalog
+  - M-CTNC
+  - core members
+abstract: "This release contains the Gaia DR3 astrometric core-membership catalog for 359 benchmark open clusters produced with Multiscale Common Tightest Neighbors Consensus (M-CTNC), together with benchmark, anomaly-audit, photometric-independence, robustness, ablation, and baseline-comparison diagnostics."

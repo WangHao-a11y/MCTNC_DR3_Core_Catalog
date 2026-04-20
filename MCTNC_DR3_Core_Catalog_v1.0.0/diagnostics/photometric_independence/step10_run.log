@@ -1,0 +1,28 @@
+2026-04-11 23:43:00,390 | INFO | Base directory: D:\HuaweiMoveData\Users\王浩\Desktop\课题组\DUCT-Clust
+2026-04-11 23:43:01,161 | WARNING | Multiple matches for ocfinder_table1.csv; using D:\HuaweiMoveData\Users\王浩\Desktop\课题组\DUCT-Clust\ocfinder_table1.csv
+2026-04-11 23:43:01,778 | WARNING | Multiple matches for ocfinder_table2.csv; using D:\HuaweiMoveData\Users\王浩\Desktop\课题组\DUCT-Clust\ocfinder_table2.csv
+2026-04-11 23:43:03,225 | INFO | ocfinder_table1 Nmemb matches source-level truth counts for all clusters.
+2026-04-11 23:43:03,286 | INFO | Overlapping clusters between truth and release: 359
+2026-04-11 23:43:03,326 | INFO | Building new photometry cache: D:\HuaweiMoveData\Users\王浩\Desktop\课题组\DUCT-Clust\step10_outputs_final\cache\gaia_photometry_cache.csv
+2026-04-11 23:43:03,328 | INFO | Querying Gaia photometry batch 1 / 18 (1000 IDs)
+2026-04-11 23:43:08,681 | INFO | Querying Gaia photometry batch 2 / 18 (1000 IDs)
+2026-04-11 23:43:14,679 | INFO | Querying Gaia photometry batch 3 / 18 (1000 IDs)
+2026-04-11 23:43:19,505 | INFO | Querying Gaia photometry batch 4 / 18 (1000 IDs)
+2026-04-11 23:43:25,584 | INFO | Querying Gaia photometry batch 5 / 18 (1000 IDs)
+2026-04-11 23:43:30,267 | INFO | Querying Gaia photometry batch 6 / 18 (1000 IDs)
+2026-04-11 23:43:35,727 | INFO | Querying Gaia photometry batch 7 / 18 (1000 IDs)
+2026-04-11 23:43:41,387 | INFO | Querying Gaia photometry batch 8 / 18 (1000 IDs)
+2026-04-11 23:43:46,834 | INFO | Querying Gaia photometry batch 9 / 18 (1000 IDs)
+2026-04-11 23:43:51,486 | INFO | Querying Gaia photometry batch 10 / 18 (1000 IDs)
+2026-04-11 23:43:56,316 | INFO | Querying Gaia photometry batch 11 / 18 (1000 IDs)
+2026-04-11 23:44:01,059 | INFO | Querying Gaia photometry batch 12 / 18 (1000 IDs)
+2026-04-11 23:44:05,197 | INFO | Querying Gaia photometry batch 13 / 18 (1000 IDs)
+2026-04-11 23:44:09,880 | INFO | Querying Gaia photometry batch 14 / 18 (1000 IDs)
+2026-04-11 23:44:14,639 | INFO | Querying Gaia photometry batch 15 / 18 (1000 IDs)
+2026-04-11 23:44:19,414 | INFO | Querying Gaia photometry batch 16 / 18 (1000 IDs)
+2026-04-11 23:44:25,217 | INFO | Querying Gaia photometry batch 17 / 18 (1000 IDs)
+2026-04-11 23:44:29,420 | INFO | Querying Gaia photometry batch 18 / 18 (113 IDs)
+2026-04-11 23:44:32,690 | INFO | Saved photometry cache: D:\HuaweiMoveData\Users\王浩\Desktop\课题组\DUCT-Clust\step10_outputs_final\cache\gaia_photometry_cache.csv
+2026-04-11 23:44:38,250 | INFO | Computed per-cluster photometric-independence statistics for 359 clusters.
+2026-04-11 23:44:47,835 | INFO | Step 10 (Case A, final pre-writing version) completed successfully.
+2026-04-11 23:44:47,836 | INFO | Outputs written to: D:\HuaweiMoveData\Users\王浩\Desktop\课题组\DUCT-Clust\step10_outputs_final

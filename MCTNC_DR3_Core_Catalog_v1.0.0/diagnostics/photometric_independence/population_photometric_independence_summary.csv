@@ -1,0 +1,2 @@
+﻿n_clusters,median_ks_pvalue,mean_ks_pvalue,median_delta_g_median,mean_delta_g_median,median_delta_g_q90,mean_delta_g_q90,clusters_with_p_lt_0p05,frac_clusters_with_p_lt_0p05
+359,1.0,0.9795918002271328,0.0,0.028077954038997214,0.0,0.017140693871866237,5,0.013927576601671309

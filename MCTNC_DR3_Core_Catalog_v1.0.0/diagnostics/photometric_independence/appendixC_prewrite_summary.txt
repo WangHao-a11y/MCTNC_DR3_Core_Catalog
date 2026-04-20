@@ -1,0 +1,38 @@
+Step 10 pre-writing summary
+==========================
+
+Clusters analyzed: 359
+Median KS p-value: 1.0000
+Mean KS p-value: 0.9796
+Median Δmedian(G): 0.0000
+Mean Δmedian(G): 0.0281
+Median ΔG90: 0.0000
+Mean ΔG90: 0.0171
+Clusters with KS p < 0.05: 5 (1.39%)
+
+Population-level conclusion:
+No strong evidence for a population-level magnitude-dependent selection signature in the released astrometric core.
+
+Cluster-relative recall by magnitude quantile bin:
+  Q1: median=1.000, p16=0.889, p84=1.000
+  Q2: median=1.000, p16=0.917, p84=1.000
+  Q3: median=1.000, p16=0.917, p84=1.000
+  Q4: median=1.000, p16=0.909, p84=1.000
+  Q5: median=1.000, p16=0.889, p84=1.000
+
+KS-significant outlier clusters (p < 0.05):
+  UBC1194: p=3.460e-18, Δmedian(G)=1.898, ΔG90=1.894, TP=0, FN=64, FP=307
+  UBC1103: p=6.847e-14, Δmedian(G)=2.542, ΔG90=1.853, TP=50, FN=0, FP=237
+  UBC1237: p=3.309e-07, Δmedian(G)=0.917, ΔG90=1.572, TP=50, FN=1, FP=173
+  UBC1265: p=4.845e-07, Δmedian(G)=1.036, ΔG90=1.293, TP=46, FN=2, FP=274
+  UBC1015: p=1.976e-02, Δmedian(G)=-0.285, ΔG90=-0.081, TP=360, FN=205, FP=0
+
+Representative CMD set selected for Appendix C:
+  UBC1001: clean exact case
+  UBC1049: strong conservative-core exclusion case
+  UBC1103: strong FP-dominated photometric outlier case
+  UBC1237: appendix-level rerun/exception case
+
+Recommended writing position:
+Use the population-level figure and summary table as the primary evidence.
+Use the representative CMD panels as explanatory diagnostics rather than as the primary proof layer.

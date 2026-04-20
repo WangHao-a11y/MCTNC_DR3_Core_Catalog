@@ -1,0 +1,9 @@
+variant,best_n,solo_best_n,mean_dense_rank,median_dense_rank,rank1_n,rank2_n,rank3_n,rank4_n,rank5_n,rank6_n,rank7_n,rank8_n
+no_quality_cut,275,29,1.4206128133704736,1.0,275,40,28,10,5,1,0,0
+no_candidate_protocol,234,21,1.5069637883008355,1.0,234,91,20,8,4,1,1,0
+full_core,226,40,1.6183844011142061,1.0,226,75,41,9,4,2,2,0
+no_anchor_prior,213,3,1.6518105849582172,1.0,213,94,29,14,5,4,0,0
+no_center_refinement,207,1,1.6629526462395543,1.0,207,98,32,17,2,1,2,0
+no_objective_regularization,208,0,1.6629526462395543,1.0,208,97,32,15,5,0,2,0
+fixed_single_k,151,1,1.9052924791086352,2.0,151,127,56,18,5,1,0,1
+no_support_gate,1,0,3.267409470752089,3.0,1,95,139,76,29,17,2,0

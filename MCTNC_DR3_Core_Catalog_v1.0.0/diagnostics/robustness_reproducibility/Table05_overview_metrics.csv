@@ -1,0 +1,9 @@
+metric,value
+Population size,359.0
+Exact benchmark reproduction fraction,0.9972144846796658
+Exact benchmark reproduction count,358.0
+Median |ΔF1| vs official benchmark,0.0
+Center-mode match fraction,0.9944289693593314
+Stable center-refinement fraction,0.9916434540389972
+Material center-refinement cases,3.0
+Appendix mismatch cases,2.0
