@@ -1,5 +1,5 @@
 # MCTNC_DR3_Core_Catalog
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19667442.svg)](https://doi.org/10.5281/zenodo.19667442)
 Gaia DR3 core-membership catalog for 359 benchmark open clusters produced with Multiscale Common Tightest Neighbors Consensus (M-CTNC).
 
 This repository contains the public data products and diagnostic tables associated with the manuscript:
@@ -147,13 +147,16 @@ print(members.head())
 
 Avoid resaving the catalog from spreadsheet software unless `source_id` is explicitly treated as text.
 
+
 ## Citation
 
 If you use this catalog or diagnostic package, cite the associated manuscript:
 
 Wang, H., & Wen, L. A Gaia DR3 Core-Membership Catalog for 359 Open Clusters from M-CTNC.
 
-If you use a versioned archive of this repository, also cite the persistent identifier associated with that archive.
+Please also cite the archived versioned release:
+
+Wang, H., & Wen, L. (2026). A Gaia DR3 Core-Membership Catalog for 359 Open Clusters from M-CTNC. Zenodo. https://doi.org/10.5281/zenodo.19667442
 
 ## License
 
