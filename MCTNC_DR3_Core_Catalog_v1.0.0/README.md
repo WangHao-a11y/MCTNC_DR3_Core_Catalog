@@ -1,5 +1,6 @@
 # MCTNC_DR3_Core_Catalog
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19667442.svg)](https://doi.org/10.5281/zenodo.19667442)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19667442.svg)](https://doi.org/10.5281/zenodo.19667442) 
+
 Gaia DR3 core-membership catalog for 359 benchmark open clusters produced with Multiscale Common Tightest Neighbors Consensus (M-CTNC).
 
 This repository contains the public data products and diagnostic tables associated with the manuscript:
@@ -56,7 +57,7 @@ MCTNC_DR3_Core_Catalog_v1.0.0/
 │   ├── robustness_reproducibility/
 │   ├── ablation/
 │   └── baseline/
-├── reference/
+├── references/
 ├── scripts/
 └── docs/
 ```
@@ -89,13 +90,13 @@ The `diagnostics/` directory contains validation and audit products.
 
 These diagnostic files support the validation results reported in the manuscript. They are not alternative membership catalogs.
 
-## `reference/`
+## `references/`
 
-The `reference/` directory contains the reference input tables used in benchmark construction:
+The `references/` directory contains the reference input tables used in benchmark construction:
 
 ```text
-reference/ocfinder_table1.csv
-reference/ocfinder_table2.csv
+references/ocfinder_table1.csv
+references/ocfinder_table2.csv
 ```
 
 These files correspond to the UBC-based open-cluster reference layer used by the manuscript and aligned with the Castro-Ginard et al. Gaia open-cluster sample. They are included to document the benchmark provenance and should not be interpreted as M-CTNC release products.
